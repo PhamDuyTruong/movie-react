@@ -1,6 +1,11 @@
+# Project is created by mock api of themoviedb and use technologies:
++ axios
++ SCSS
++ query-string
++ react-router-dom
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with
 
 ## Available Scripts
 
