@@ -38,7 +38,6 @@ const HeroSlide = () => {
             grabCursor={true}
             spaceBetween={0}
             slidesPerView={1}
-            // autoplay={{delay: 3000}}
         >
             {
                 movieItems.map((item, i) => (
